@@ -23,7 +23,7 @@ User details are stored in users.txt file instead of a database.
 2. Place the project folder in C:/xampp/htdocs/.  
 3. Start Apache from XAMPP Control Panel.  
 4. Open in browser:  
-- http://localhost/music-player-php/
+- http://localhost/music-player/
 
 ---
 
